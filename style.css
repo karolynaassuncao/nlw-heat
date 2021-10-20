@@ -1,0 +1,22 @@
+html, body{
+    height: 100%;
+}
+
+body {
+    display: grid;
+    place-items: center;
+}
+main {
+    background: url("images/background.png");
+    width: 375px;
+    height: 812px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+h1 {
+    font-size: 1.5rem;
+}
+a {
+     color: lightgray;
+     text-decoration: none;
+}
